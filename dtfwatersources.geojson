@@ -1,0 +1,7155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.034",
+        "LAT": "35 27.333",
+        "COMMENTS": "FH",
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.71722756391013,
+          35.45554366740762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.201",
+        "LAT": "35 27.346",
+        "COMMENTS": "FH",
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7200228883102,
+          35.45576577226532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.068",
+        "LAT": "35 27.227",
+        "COMMENTS": "FH",
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.75113069910178,
+          35.45378012686025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.106",
+        "LAT": "35 26.944",
+        "COMMENTS": "50,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.71843737488916,
+          35.44907327631409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-62-3",
+        "LONG": "-120 41.804",
+        "LAT": "35 13.592",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.69673427003511,
+          35.22653460846787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.262",
+        "LAT": "35 16.155",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.78770406999503,
+          35.269246089134455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.083",
+        "LAT": "35 26.826",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73471233258256,
+          35.44710341031113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-121 6.764",
+        "LAT": "35 37.217",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11272433416738,
+          35.62028754758952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-121 6.821",
+        "LAT": "35 37.211",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11367924692468,
+          35.62017489805044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-121 6.784",
+        "LAT": "35 37.183",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11306229782276,
+          35.619718941865344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.956",
+        "LAT": "35 26.767",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7326067531084,
+          35.44610949924137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.781",
+        "LAT": "35 16.655",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72967925353694,
+          35.27758033651658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.245",
+        "LAT": "35 18.802",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73740912180781,
+          35.31336953319437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.177",
+        "LAT": "35 27.418",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.75295337003853,
+          35.456963178687964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 50.138",
+        "LAT": "35 23.695",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83563311464256,
+          35.39491454362846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 50.022",
+        "LAT": "35 24.611",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83370178924255,
+          35.410176659643106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 52.768",
+        "LAT": "35 30.414",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.87946781004511,
+          35.50690590873565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.912",
+        "LAT": "35 17.303",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7985367024335,
+          35.28837724645676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.048",
+        "LAT": "35 16.428",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.71747311003625,
+          35.273795128512965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.138",
+        "LAT": "35 16.342",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7189697900364,
+          35.272357458511586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.359",
+        "LAT": "35 16.371",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72265514003658,
+          35.27285098851201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.711",
+        "LAT": "35 16.253",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72851309003684,
+          35.270876878510144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.715",
+        "LAT": "35 17.567",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8119190600411,
+          35.29277979853085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.264",
+        "LAT": "35 18.167",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80439814004076,
+          35.30278443854038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.437",
+        "LAT": "35 17.445",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8072788400409,
+          35.29074131852898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.189",
+        "LAT": "35 18.145",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80315360004072,
+          35.30241965854012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.277",
+        "LAT": "35 16.228",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80460736004069,
+          35.270463818509626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.235",
+        "LAT": "35 17.236",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80391535004071,
+          35.28727054852565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.193",
+        "LAT": "35 17.259",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80321261004063,
+          35.287651418526025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.212",
+        "LAT": "35 16.180",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80352911004066,
+          35.26966988850889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.227",
+        "LAT": "35 16.175",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80378124004064,
+          35.26958405850878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.154",
+        "LAT": "35 18.137",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80255815004071,
+          35.30229091853996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.157",
+        "LAT": "35 18.131",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80261716004068,
+          35.30218898853989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.985",
+        "LAT": "35 17.717",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79974183004049,
+          35.29529034853333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.839",
+        "LAT": "35 17.887",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79732248004042,
+          35.29811202853595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.616",
+        "LAT": "35 17.817",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.81026145004104,
+          35.296947958534865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.599",
+        "LAT": "35 17.595",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.809977140041,
+          35.29324650853132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.994",
+        "LAT": "35 16.977",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79989203004051,
+          35.28294145852158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.428",
+        "LAT": "35 27.538",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72379240003701,
+          35.458958748689916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 38.824",
+        "LAT": "35 20.091",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64705976003287,
+          35.33485292857137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 38.543",
+        "LAT": "35 19.797",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6423873500326,
+          35.32994448856666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 39.026",
+        "LAT": "35 20.739",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.65043935003305,
+          35.34565686858171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 41.197",
+        "LAT": "35 20.338",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.68661433312295,
+          35.338963459808774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 46.685",
+        "LAT": "35 25.890",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.77807509537676,
+          35.43149317660819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-121 6.982",
+        "LAT": "35 36.221",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11636195508555,
+          35.60367585009874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 40.163",
+        "LAT": "35 14.841",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.669374,
+          35.247354999999686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.648",
+        "LAT": "35 15.150",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.76080190062557,
+          35.252504317748084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 46.192",
+        "LAT": "35 15.186",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.76986920915641,
+          35.25309767978702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": "Water Treatment Plant",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-121 7.213",
+        "LAT": "35 35.974",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.12021680077737,
+          35.59957154460352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": "Cambria Well Fields",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-121 6.615",
+        "LAT": "35 36.108",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 1",
+        "marker-color": "#056df5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1102507324695,
+          35.601798347128614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Greater Suey Creek Area PreAttack Plan",
+        "NAME": "Upper Los Berros PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 29.965",
+        "LAT": "35 5.528",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49941590265617,
+          35.09213160888297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Greater Suey Creek Area PreAttack Plan",
+        "NAME": "Suey Cree PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 23.860",
+        "LAT": "35 3.401",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.39766415023244,
+          35.056686172340896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Greater Suey Creek Area PreAttack Plan",
+        "NAME": "Suey Cree PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 24.253",
+        "LAT": "35 3.190",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.40420916870761,
+          35.05315931881864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Greater Suey Creek Area PreAttack Plan",
+        "NAME": "Suey Cree PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 24.129",
+        "LAT": "35 3.206",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.40215095298157,
+          35.05343688052831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Greater Suey Creek Area PreAttack Plan",
+        "NAME": "Suey Cree PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 24.351",
+        "LAT": "35 4.382",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.40584248011189,
+          35.07304186124144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 36.602",
+        "LAT": "35 9.185",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.610035,
+          35.15308499999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 33.957",
+        "LAT": "35 8.707",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.565944,
+          35.14511299999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 33.999",
+        "LAT": "35 8.745",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.566642,
+          35.145756999999605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 33.975",
+        "LAT": "35 8.814",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56625,
+          35.14689399999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 34.008",
+        "LAT": "35 8.766",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.566808,
+          35.146105999999676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 34.054",
+        "LAT": "35 8.724",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56757,
+          35.14539799999957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 34.099",
+        "LAT": "35 8.711",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56831,
+          35.14518899999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 34.099",
+        "LAT": "35 8.674",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568315,
+          35.144571999999656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 34.203",
+        "LAT": "35 8.643",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.570043,
+          35.14405699999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 10,
+        "LONG": "-120 34.152",
+        "LAT": "35 8.599",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.569206,
+          35.14332199999978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 11,
+        "LONG": "-120 34.139",
+        "LAT": "35 8.608",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568986,
+          35.143466999999674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 12,
+        "LONG": "-120 34.083",
+        "LAT": "35 8.506",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568047,
+          35.14177099999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 13,
+        "LONG": "-120 33.866",
+        "LAT": "35 8.599",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.564432,
+          35.143310999999656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 16,
+        "LONG": "-120 33.334",
+        "LAT": "35 8.743",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.555575,
+          35.14571999999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 18,
+        "LONG": "-120 33.275",
+        "LAT": "35 8.448",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.554588,
+          35.140805999999785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 19,
+        "LONG": "-120 33.425",
+        "LAT": "35 8.581",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55707611505832,
+          35.143015331710906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 22,
+        "LONG": "-120 33.439",
+        "LAT": "35 8.330",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.557324,
+          35.13884199999976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 25,
+        "LONG": "-120 33.719",
+        "LAT": "35 8.304",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56198,
+          35.13840799999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 36.284",
+        "LAT": "35 10.494",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.604724,
+          35.17489699999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 35.044",
+        "LAT": "35 9.895",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.584065,
+          35.1649139999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 35.232",
+        "LAT": "35 9.781",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.587204,
+          35.16300899999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 35.381",
+        "LAT": "35 9.223",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.589687,
+          35.15372299999976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 35.610",
+        "LAT": "35 8.801",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.593496,
+          35.14667999999959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 8,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 10,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 11,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 12,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 13,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 14,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 15,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 16,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 17,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 18,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 19,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 20,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 21,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 22,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 23,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 24,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 25,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 26,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 27,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 28,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 29,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 30,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 31,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 32,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 33,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 34,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 35,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 36,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 37,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 38,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 39,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 40,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 41,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 42,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 43,
+        "LONG": "-120 31.430",
+        "LAT": "35 10.279",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.523828,
+          35.17130799999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 33.193",
+        "LAT": "35 8.964",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.553215,
+          35.14940499999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 33.184",
+        "LAT": "35 8.975",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.553067,
+          35.14957799999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 32.689",
+        "LAT": "35 8.777",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.54482,
+          35.14627399999963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 32.824",
+        "LAT": "35 8.862",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.547068,
+          35.14770599999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 8,
+        "LONG": "-120 32.697",
+        "LAT": "35 8.774",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.544945,
+          35.146235999999654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 32.313",
+        "LAT": "35 9.135",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.538545,
+          35.15225099999964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 33.261",
+        "LAT": "35 9.485",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.554341,
+          35.158078999999674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 33.391",
+        "LAT": "35 9.557",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.556514,
+          35.159285999999675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 33.157",
+        "LAT": "35 9.709",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.552608,
+          35.16181299999964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 33.258",
+        "LAT": "35 9.673",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.554293,
+          35.16121699999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 34.452",
+        "LAT": "35 9.963",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.574195,
+          35.16605599999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 33.875",
+        "LAT": "35 9.873",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.564582,
+          35.1645429999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 33.615",
+        "LAT": "35 9.815",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.560253,
+          35.163577999999674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 8,
+        "LONG": "-120 33.530",
+        "LAT": "35 9.635",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.558837,
+          35.160583999999666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 33.465",
+        "LAT": "35 10.004",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.557748,
+          35.16672699999963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 33.957",
+        "LAT": "35 8.707",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.565944,
+          35.14511299999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 33.999",
+        "LAT": "35 8.745",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.566642,
+          35.14575699999964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 33.975",
+        "LAT": "35 8.814",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56625,
+          35.14689399999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 34.008",
+        "LAT": "35 8.766",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.566808,
+          35.146105999999676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 34.054",
+        "LAT": "35 8.724",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56757,
+          35.14539799999963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 34.099",
+        "LAT": "35 8.711",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56831,
+          35.14518899999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 34.099",
+        "LAT": "35 8.674",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568315,
+          35.144571999999656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 12,
+        "LONG": "-120 34.083",
+        "LAT": "35 8.506",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568047,
+          35.14177099999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 13,
+        "LONG": "-120 33.866",
+        "LAT": "35 8.599",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.564432,
+          35.143310999999656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 18,
+        "LONG": "-120 33.275",
+        "LAT": "35 8.448",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.554588,
+          35.140805999999706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "019-250,000 (2) Gal Tanks",
+        "LONG": "-120 33.440",
+        "LAT": "35 8.569",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55733467639101,
+          35.14280786134161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 34.196",
+        "LAT": "35 8.809",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.569931,
+          35.14681099999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 34.222",
+        "LAT": "35 8.796",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.570361,
+          35.146592999999676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 34.102",
+        "LAT": "35 8.554",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568359,
+          35.142570999999705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 34.547",
+        "LAT": "35 8.713",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.575786,
+          35.14521199999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 34.509",
+        "LAT": "35 8.806",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.575143,
+          35.14675799999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 34.346",
+        "LAT": "35 8.984",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.572424,
+          35.14972899999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 34.343",
+        "LAT": "35 8.972",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57238,
+          35.149529999999714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 8,
+        "LONG": "-120 34.300",
+        "LAT": "35 8.995",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.571669,
+          35.149913999999654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 34.346",
+        "LAT": "35 9.020",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.572431,
+          35.15032799999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 1,
+        "LONG": "-120 34.075",
+        "LAT": "35 9.162",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.567908,
+          35.152698999999615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 2,
+        "LONG": "-120 33.392",
+        "LAT": "35 9.110",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.556541,
+          35.15182399999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 3,
+        "LONG": "-120 33.396",
+        "LAT": "35 9.115",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.556594,
+          35.151915999999666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 4,
+        "LONG": "-120 33.598",
+        "LAT": "35 9.058",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.559963,
+          35.150960999999675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 5,
+        "LONG": "-120 33.597",
+        "LAT": "35 9.058",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.559958,
+          35.15096099999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 6,
+        "LONG": "-120 33.702",
+        "LAT": "35 9.127",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.561706,
+          35.15210899999962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 7,
+        "LONG": "-120 33.708",
+        "LAT": "35 9.161",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.561803,
+          35.15268299999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 8,
+        "LONG": "-120 34.076",
+        "LAT": "35 9.445",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56794,
+          35.15741899999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 9,
+        "LONG": "-120 34.063",
+        "LAT": "35 9.481",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.567709,
+          35.15801499999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 10,
+        "LONG": "-120 34.058",
+        "LAT": "35 9.475",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.567634,
+          35.15790799999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 11,
+        "LONG": "-120 33.334",
+        "LAT": "35 9.384",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.555559,
+          35.156394999999634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 12,
+        "LONG": "-120 33.087",
+        "LAT": "35 9.278",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55145,
+          35.15463499999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 13,
+        "LONG": "-120 33.244",
+        "LAT": "35 9.170",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.554073,
+          35.15283799999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 14,
+        "LONG": "-120 33.215",
+        "LAT": "35 9.356",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55359,
+          35.155927999999676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "015- Pond",
+        "LONG": "-120 33.545",
+        "LAT": "35 9.460",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.559083,
+          35.15766099999963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 16,
+        "LONG": "-120 34.114",
+        "LAT": "35 9.706",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568557,
+          35.16175899999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 17,
+        "LONG": "-120 34.103",
+        "LAT": "35 9.694",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.568385,
+          35.1615659999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 18,
+        "LONG": "-120 34.217",
+        "LAT": "35 9.654",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.570284,
+          35.160905999999684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": 19,
+        "LONG": "-120 33.994",
+        "LAT": "35 9.643",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.566567,
+          35.16070799999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.458",
+        "LAT": "35 9.303",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5743,
+          35.15504499999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.698",
+        "LAT": "35 9.209",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.578305,
+          35.153476999999704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.691",
+        "LAT": "35 9.208",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.578191,
+          35.153472999999664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.640",
+        "LAT": "35 9.021",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.577335,
+          35.15035699999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.786",
+        "LAT": "35 8.768",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.579767,
+          35.146134999999646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.433",
+        "LAT": "35 11.878",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.607213,
+          35.19797199999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.387",
+        "LAT": "35 11.879",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.60645,
+          35.197980999999665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.303",
+        "LAT": "35 11.780",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.605044,
+          35.19632999999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.221",
+        "LAT": "35 11.362",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.603686,
+          35.18936999999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.268",
+        "LAT": "35 11.351",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.604469,
+          35.18918299999975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.312",
+        "LAT": "35 11.273",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6052,
+          35.18787699999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.320",
+        "LAT": "35 11.257",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.60533,
+          35.18761399999969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.401",
+        "LAT": "35 11.220",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.606677,
+          35.18699199999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East Arroyo Grande Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 35.887",
+        "LAT": "35 11.239",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.598112,
+          35.187314999999664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.041",
+        "LAT": "35 10.902",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.600692,
+          35.18170499999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 36.060",
+        "LAT": "35 10.836",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.601001,
+          35.180596999999686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 35.261",
+        "LAT": "35 10.366",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.587688,
+          35.1727669999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 35.054",
+        "LAT": "35 10.402",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.584228,
+          35.17336399999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 34.970",
+        "LAT": "35 10.414",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.582829,
+          35.17356699999966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 33.143",
+        "LAT": "35 8.285",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.552385,
+          35.13808299999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 33.-120",
+        "LAT": "35 8.260",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.551995,
+          35.13766299999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 33.080",
+        "LAT": "35 8.228",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.551325,
+          35.13712999999962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Arroyo Grande Area PreAttack Plan",
+        "NAME": "East AG Area PreAttack Plan, East AG Overview",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 33.016",
+        "LAT": "35 8.171",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 2",
+        "marker-color": "#478fee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.550261,
+          35.13618199999965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.868",
+        "LAT": "35 30.872",
+        "COMMENTS": "5,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73113424967242,
+          35.514526196550015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.767",
+        "LAT": "35 30.935",
+        "COMMENTS": "5,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72944866819708,
+          35.51558082338412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.555",
+        "LAT": "35 31.347",
+        "COMMENTS": "10,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72591239175576,
+          35.522449826495226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.721",
+        "LAT": "35 31.514",
+        "COMMENTS": "10,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72868160887076,
+          35.52522969358066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.562",
+        "LAT": "35 31.583",
+        "COMMENTS": "5,000 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72602830475748,
+          35.52638881116701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.772",
+        "LAT": "35 31.636",
+        "COMMENTS": "3,500 gal Tank",
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72953309947323,
+          35.52726499322289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Lake Nacimiento PreAttack Plan",
+        "NAME": "Cal Shasta, West Lake Nacimiento PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-121 0.358",
+        "LAT": "35 44.208",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.00596896221589,
+          35.73680464761539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 42.562",
+        "LAT": "35 35.236",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.70935767051444,
+          35.58725704104871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 42.843",
+        "LAT": "35 35.095",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.71404093857655,
+          35.58492355465877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 42.937",
+        "LAT": "35 35.372",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.71562343448946,
+          35.58953698821887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.370",
+        "LAT": "35 35.282",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72283339432441,
+          35.58803501340291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.396",
+        "LAT": "35 36.738",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8066008178283,
+          35.61230449935127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.896",
+        "LAT": "35 36.702",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8149319987304,
+          35.61169303200535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.208",
+        "LAT": "35 37.452",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72013997292899,
+          35.62419667161852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.266",
+        "LAT": "35 37.468",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7210949446782,
+          35.62445945252737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.760",
+        "LAT": "35 38.900",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79600552486525,
+          35.648331956780055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 46.247",
+        "LAT": "35 39.571",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.770781142765,
+          35.65952191250129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.323",
+        "LAT": "35 38.861",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.722049620401,
+          35.647676833507624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.203",
+        "LAT": "35 34.508",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73672230489493,
+          35.57513904207197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.921",
+        "LAT": "35 34.883",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73201218498751,
+          35.58138856469188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.729",
+        "LAT": "35 33.886",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74547731640952,
+          35.56477504345244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.565",
+        "LAT": "35 33.880",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7427467681997,
+          35.56466772630386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.884",
+        "LAT": "35 39.051",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73140001844708,
+          35.65085264719874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.214",
+        "LAT": "35 39.538",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.75356632129451,
+          35.65895847077601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 46.440",
+        "LAT": "35 39.758",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.77400531020825,
+          35.66263331736778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.830",
+        "LAT": "35 39.041",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79716425464663,
+          35.65069232020711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 49.066",
+        "LAT": "35 39.085",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.81776956701333,
+          35.651411363516786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 51.668",
+        "LAT": "35 38.842",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.86112605946784,
+          35.64736701253501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 52.237",
+        "LAT": "35 38.556",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.87061065393294,
+          35.64259275307056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 51.579",
+        "LAT": "35 38.160",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85964551691707,
+          35.63599974368935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 51.587",
+        "LAT": "35 38.102",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85978500249512,
+          35.63503950991406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.809",
+        "LAT": "35 36.558",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.81347821788943,
+          35.60929511400433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.830",
+        "LAT": "35 36.011",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.81383771038493,
+          35.600191665269016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 48.449",
+        "LAT": "35 36.224",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80748067008923,
+          35.60374286466975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.989",
+        "LAT": "35 30.694",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79981001548504,
+          35.5115656600104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 47.573",
+        "LAT": "35 31.185",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.79288857803664,
+          35.519756715799915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.036",
+        "LAT": "35 32.056",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.750600685733,
+          35.534267565173415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 46.355",
+        "LAT": "35 31.831",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.77257397433037,
+          35.53051800195022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.794",
+        "LAT": "35 31.992",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72989897999655,
+          35.533205165914424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.875",
+        "LAT": "35 31.362",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73125093265955,
+          35.52269624847665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.699",
+        "LAT": "35 30.939",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7283165997798,
+          35.515647341165305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.740",
+        "LAT": "35 31.155",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72900859159228,
+          35.5192468878764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.609",
+        "LAT": "35 31.220",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72681985596232,
+          35.520330477621336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.611",
+        "LAT": "35 31.243",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72685203974136,
+          35.52071135324861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Atascadero Area PreAttack Plan",
+        "NAME": "West Atascadero Backside",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.481",
+        "LAT": "35 31.161",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7246901485325,
+          35.519348759294814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 44.419",
+        "LAT": "35 34.144",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74031123219483,
+          35.569061173829276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.889",
+        "LAT": "35 33.797",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.76482483001082,
+          35.56327521475892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Lake Nacimiento PreAttack Plan",
+        "NAME": "East Lake Nacimiento PreAttack, Heritage Ranch",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 53.789",
+        "LAT": "35 43.782",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.89647722869925,
+          35.729693300776866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Lake Nacimiento PreAttack Plan",
+        "NAME": "East Lake Nacimiento PreAttack, Heritage Ranch",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 53.960",
+        "LAT": "35 43.625",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.89933339111033,
+          35.72708524303594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Lake Nacimiento PreAttack Plan",
+        "NAME": "East Lake Nacimiento PreAttack, Heritage Ranch",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 53.828",
+        "LAT": "35 43.550",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.89714056096639,
+          35.725829511606925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Lake Nacimiento PreAttack Plan",
+        "NAME": "East Lake Nacimiento PreAttack, Heritage Ranch",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 52.769",
+        "LAT": "35 43.734",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.87948642436366,
+          35.72890679994497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Lake Nacimiento PreAttack Plan",
+        "NAME": "West Lake Nacimiento PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 56.628",
+        "LAT": "35 45.585",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.94379858045056,
+          35.75975639652302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "West Lake Nacimiento PreAttack Plan",
+        "NAME": "West Lake Nacimiento PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 56.481",
+        "LAT": "35 45.684",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.94135701982371,
+          35.761403557762065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "East Lake Nacimiento PreAttack Plan",
+        "NAME": "East Lake Nacimiento PreAttack, Heritage Ranch",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 53.991",
+        "LAT": "35 44.042",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 3",
+        "marker-color": "#81aee5",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8998572159571,
+          35.73403920014214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 29.535",
+        "LAT": "35 19.350",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49225349482488,
+          35.32249950825795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 29.584",
+        "LAT": "35 19.578",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49307225863903,
+          35.326292059548926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-20",
+        "LONG": "-120 27.271",
+        "LAT": "35 22.105",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.45451313812457,
+          35.36841698132031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Belham Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-5",
+        "LONG": "-120 30.472",
+        "LAT": "35 25.558",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50787235974907,
+          35.42595696657956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-10",
+        "LONG": "-120 29.480",
+        "LAT": "35 24.090",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4913320627251,
+          35.40149406463534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-11",
+        "LONG": "-120 29.545",
+        "LAT": "35 23.919",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49242104562515,
+          35.3986508646325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-2",
+        "LONG": "-120 32.594",
+        "LAT": "35 26.338",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5432314519278,
+          35.438964641671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Salinas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-12",
+        "LONG": "-120 34.235",
+        "LAT": "35 23.798",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57057521581898,
+          35.39663977459628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-6",
+        "LONG": "-120 28.642",
+        "LAT": "35 25.687",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.47737388702437,
+          35.42811282466071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-7",
+        "LONG": "-120 27.076",
+        "LAT": "35 24.907",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.45126072752306,
+          35.41510895864831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-8",
+        "LONG": "-120 26.783",
+        "LAT": "35 24.568",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.44639002882276,
+          35.409465418642874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Las Pilitas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-13",
+        "LONG": "-120 30.710",
+        "LAT": "35 23.816",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51183301705038,
+          35.39692409731392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Salinas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-15",
+        "LONG": "-120 31.820",
+        "LAT": "35 23.483",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.53032532207538,
+          35.391384883664074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-4",
+        "LONG": "-120 29.512",
+        "LAT": "35 25.925",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49186759779913,
+          35.43208339569403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-19",
+        "LONG": "-120 34.243",
+        "LAT": "35 21.892",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57071452631077,
+          35.364858995344484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-24",
+        "LONG": "-120 32.883",
+        "LAT": "35 20.801",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.54805626846408,
+          35.346679882455106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-17",
+        "LONG": "-120 25.417",
+        "LAT": "35 23.199",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.42361826225714,
+          35.38665002191416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Las Pilitas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-22",
+        "LONG": "-120 32.186",
+        "LAT": "35 21.245",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.53643207166454,
+          35.35407729664305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-1",
+        "LONG": "-120 30.563",
+        "LAT": "35 26.483",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50938891491279,
+          35.44138185035209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-26",
+        "LONG": "-120 29.682",
+        "LAT": "35 20.171",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4947000877202,
+          35.3361761736741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-25",
+        "LONG": "-120 33.336",
+        "LAT": "35 20.496",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.55559900071304,
+          35.34160507912435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Huer Huero Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-16",
+        "LONG": "-120 27.329",
+        "LAT": "35 23.502",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.45547365912878,
+          35.391703305411035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Las Pilitas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-21",
+        "LONG": "-120 30.759",
+        "LAT": "35 21.510",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51265655049669,
+          35.35850555498111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-14",
+        "LONG": "-120 26.226",
+        "LAT": "35 23.870",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.43709640291483,
+          35.39782748034911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Belham Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-9",
+        "LONG": "-120 29.631",
+        "LAT": "35 24.087",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.49384445946987,
+          35.401455327906625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Salinas Plan, Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-18",
+        "LONG": "-120 33.648",
+        "LAT": "35 22.702",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5608071270799,
+          35.378367782483664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-23",
+        "LONG": "-120 34.485",
+        "LAT": "35 20.953",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 4",
+        "marker-color": "#d0ddee",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57475518481634,
+          35.34921515167036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 26.419",
+        "LAT": "35 37.693",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 5",
+        "marker-color": "#b1e8f6",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.44031432156268,
+          35.62821189028066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": null,
+        "NAME": null,
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 26.313",
+        "LAT": "35 37.718",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 5",
+        "marker-color": "#b1e8f6",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.43854937762798,
+          35.62862492587186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Parkhill Area PreAttack Plan",
+        "NAME": "Parkhill Area PreAttack Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-40-3",
+        "LONG": "-120 28.386",
+        "LAT": "35 26.356",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 5",
+        "marker-color": "#b1e8f6",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.47309969986435,
+          35.43926506368626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "Baron Canyon/Squire Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": "W-62-4",
+        "LONG": "-120 40.519",
+        "LAT": "35 12.906",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 6",
+        "marker-color": "#9ee1f0",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.67531052521421,
+          35.21509590727009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "Lupine Canyon Plan, See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 43.696",
+        "LAT": "35 10.739",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 6",
+        "marker-color": "#9ee1f0",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7282647659386,
+          35.17898661142818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.835",
+        "LAT": "35 15.157",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 6",
+        "marker-color": "#9ee1f0",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.76391096895227,
+          35.25261168231062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": null,
+        "PREATTACK": "Avila Valley Area PreAttack Plan",
+        "NAME": "See Canyon/Davis Canyon Plan",
+        "LOCATION": null,
+        "TYPE": "Water Source",
+        "ID": null,
+        "LONG": "-120 45.748",
+        "LAT": "35 15.199",
+        "COMMENTS": null,
+        "ADDRESS": null,
+        "Battalion": "Battalion 6",
+        "marker-color": "#9ee1f0",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.76247287931162,
+          35.25331109507443
+        ]
+      }
+    }
+  ]
+}
