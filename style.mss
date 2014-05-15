@@ -1,24 +1,8 @@
 //style
 
-#dtf {
- [Battalion='Battalion 1']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #056df5;}
-  [Battalion='Battalion 2']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #478fee;}
-  [Battalion='Battalion 3']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #81aee5;}
-  [Battalion='Battalion 4']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #d0ddee;}
-  [Battalion='Battalion 5']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #b1e8f6;}
-  [Battalion='Battalion 6']{
-    marker-file: url(maki/water-24.svg);
-  marker-fill: #9ee1f0;}
+#WaterSources {
+  [TYPE='Water Source']{
+    marker-file: url('http://preattacks.s3.amazonaws.com/Symbology/WaterSource.png');}
   }
 
 #Battalions {
