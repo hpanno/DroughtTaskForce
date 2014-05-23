@@ -2,7 +2,7 @@
 
 #WaterSources {
   [TYPE='Water Source']{
-    marker-file: url('http://preattacks.s3.amazonaws.com/Symbology/WaterSource.png');}
+    marker-file: url('http://preattacks.s3.amazonaws.com/Symbology/WaterSource_.png');}
   }
 
 #Battalions {
